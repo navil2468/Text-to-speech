@@ -55,7 +55,7 @@ textarea::placeholder{
 }
 
 button{
-    background: #ff2963;
+    background: rgb(249, 143, 160);
     color: #fff;
     font-size: 16px;
     padding: 12px 25px;
